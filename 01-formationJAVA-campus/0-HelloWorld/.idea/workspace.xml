@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0db59c9-f86a-4565-a5fa-e071acb770b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aACtoG3Ar90cg7LRs34GV6rWiB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_241/src.zip!/" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+      <command value="Run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.eni.demonstration.HelloWorld" />
+      <module name="0-HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.eni.demonstration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0db59c9-f86a-4565-a5fa-e071acb770b7" name="Default Changelist" comment="" />
+      <created>1586169228145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586169228145</updated>
+      <workItem from="1586169231662" duration="2150000" />
+      <workItem from="1586179015417" duration="3953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1559" y="76" key="#Project_Structure" timestamp="1586190188372">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1559" y="76" key="#Project_Structure/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586190188372" />
+    <state x="-1697" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586170296630">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1697" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586170296630" />
+    <state x="-1371" y="172" key="FileChooserDialogImpl" timestamp="1586191070573">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1371" y="172" key="FileChooserDialogImpl/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586191070573" />
+    <state width="1493" height="75" key="GridCell.Tab.0.bottom" timestamp="1586178993614">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state width="1493" height="75" key="GridCell.Tab.0.bottom/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586178993614" />
+    <state width="1493" height="75" key="GridCell.Tab.0.center" timestamp="1586178993614">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state width="1493" height="75" key="GridCell.Tab.0.center/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586178993614" />
+    <state width="1493" height="75" key="GridCell.Tab.0.left" timestamp="1586178993614">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state width="1493" height="75" key="GridCell.Tab.0.left/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586178993614" />
+    <state width="1493" height="75" key="GridCell.Tab.0.right" timestamp="1586178993614">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state width="1493" height="75" key="GridCell.Tab.0.right/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586178993614" />
+    <state x="-1671" y="5" key="SettingsEditor" timestamp="1586170326628">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1671" y="5" key="SettingsEditor/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586170326628" />
+    <state x="-1455" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586179021016">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1455" y="241" key="com.intellij.ide.util.TipDialog/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586179021016" />
+    <state x="-1711" y="38" key="new project wizard" timestamp="1586191100165">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1711" y="38" key="new project wizard/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586191100165" />
+    <state x="-1495" y="189" width="672" height="677" key="run.anything.popup" timestamp="1586170141251">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1495" y="189" width="672" height="677" key="run.anything.popup/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586170141251" />
+    <state x="-1489" y="158" key="search.everywhere.popup" timestamp="1586187653643">
+      <screen x="-1920" y="5" width="1536" height="832" />
+    </state>
+    <state x="-1489" y="158" key="search.everywhere.popup/-1920.5.1536.832/0.0.1920.1040@-1920.5.1536.832" timestamp="1586187653643" />
+  </component>
+</project>
