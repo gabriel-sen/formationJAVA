@@ -1,29 +1,35 @@
 package fr.gabriel.programme;
     //ce programme crée un objet  personnage de RPG avec des caractéristiques qu'on viens modifier avec des methodes get / set
     public class Player {
-        // TODO GSEN :  On lui créer des attributs privé propre à l'objet donc private
-        private String name = "Gabriel";
-        private int health = 20;
-        private float attack = 0.5;
+        // On lui créer des attributs privé propre à l'objet donc private
+        private String name;
+        private float health;
+        private double attack;
 
-        // TODO GSEN :  Puisqu'on ne vas pas créér à chaque fois un joueur, on vas créer un constructeur qui nous permettras de modifier plusieurs attributs pour le rendre unique.
-        // TODO GSEN :  ctrl + maj +A pour crer le constructeur de l'objet
-        public Player() {
-
+        // Puisqu'on ne vas pas créér à chaque fois un joueur, on vas créer un constructeur qui nous permettras de modifier plusieurs attributs pour le rendre unique.
+        // ctrl + maj +A pour crer le constructeur de l'objet
+        public Player(String name, float health, double attack) {
+            this.name = name; // cette variable hérite du nom de la methode main
+            this.attack = attack; // idem
+            this.health = health; // idem
         }
 
-        // TODO GSEN : voici une fonction pour modifier le nom / le récupérer.
-        // TODO GSEN : On met la souris sur l'int name et on crée un getter et un setter via ALT+INSERT
+        // voici une fonction pour modifier le nom / le récupérer.
+        // On met la souris sur l'int name et on crée un getter et un setter via ALT+INSERT
         public String getName() {
             return name;
+        }
+
+        public void damage(double damage){
+            this.health -= damage;
         }
 
         public void setName(String name) {
             this.name = name;
         }
 
-        // TODO GSEN : idem pour l'attribut health
-        public int getHealth() {
+        // idem pour l'attribut health
+        public float getHealth() {
             return health;
         }
 
@@ -31,12 +37,13 @@ package fr.gabriel.programme;
             this.health = health;
         }
 
-        // TODO GSEN : idem pour l'attribut attack
-        public int getAttack() {
-            return (float) attack;  //TODO : bloqué ici
+        //  idem pour l'attribut attack
+        public double getAttack() {
+            return attack;
         }
 
         public void setAttack(int attack) {
             this.attack = attack;
         }
+
     }
